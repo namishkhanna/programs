@@ -1,5 +1,5 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include<bits/stdc++.h> //Only in CodeBlocks
+using namespace std; //Only in CodeBlocks
 
 int main()
 {
